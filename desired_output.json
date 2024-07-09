@@ -1,0 +1,22 @@
+{
+    "shopper_list": [
+        {
+            "shopper_id": "f09cb4d9-7bf0-42d3-843d-3d6ac6a85965",
+            "first_name": "Steve",
+            "last_name":"Ashley",
+            "address": "California"
+        },
+        {
+            "shopper_id": "df74e43f-0fd9-4989-ac7d-216540221f1a",
+            "first_name": "Joe",
+            "last_name":"Biden",
+            "address": "White house"
+        },
+        {
+            "shopper_id": "344c0c5c-6c83-4785-9f35-1f1b3de7f873",
+            "first_name": "Donald",
+            "last_name":"Trump",
+            "address": "Mar A Lago"
+        }
+    ] 
+}
